@@ -131,8 +131,3 @@ Project is: _finished_
 
 ## Contact
 Created by me Neha Achar
-
-
-<a href="www.linkedin.com/in/siddharthoza" target="_blank">LinkedIn</a>
-
-My other projects can be found [here](www.siddharthoza.com).
